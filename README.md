@@ -2,7 +2,7 @@ Welcome.
 
 This page contains the Python and JavaScript (Google Earth Engine) scripts used for data production, statistical analyses, and result visualization of the RWI spectral index.
 
-Spectral information for the sample points can be generated using the script ExportRandomPoints.js, which references the following image datasets available in Google Earth Engine: COPERNICUS/S2_SR_HARMONIZED/20210605T131249_20210605T131243_T23KLP, COPERNICUS/S2_SR_HARMONIZED/20210613T132231_20210613T132548_T22JFS, COPERNICUS/S2_SR_HARMONIZED/20210613T132231_20210613T132548_T22JGQ, COPERNICUS/S2_SR_HARMONIZED/20210613T132231_20210613T132548_T22JDM, COPERNICUS/S2_SR_HARMONIZED/20210617T135119_20210617T135609_T21HUB, and COPERNICUS/S2_SR_HARMONIZED/20210607T143731_20210607T144845_T19HBD. he result of processing this script is in the file samplePointsCities_20240811_harmonized.csv.
+Spectral information for the sample points can be generated using the script ExportRandomPoints.js.The result of the processing in the file samplePointsCities_20240811_harmonized.csv.
 
 The file ImageStatsResult.js presents the statistical processing results of the sample data.
 
