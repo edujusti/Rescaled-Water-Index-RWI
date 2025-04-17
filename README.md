@@ -11,4 +11,5 @@ The file RWI_MNDWI_comparison.js shows a comparison between the RWI and MNDWI in
 It is strongly recommended to calculate the adjustment factor. However, if it is not possible to calculate the adjustment factor, values between 4 and 6 can be considered as divisors.
 
 Funding Agency: Coordination of Superior Level Staff Improvement - Brazil (CAPES)
+
 Grant Number: 677934
