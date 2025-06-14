@@ -6,7 +6,7 @@ Spectral information for the sample points can be generated using the script Exp
 
 The file ImageStatsResult.js presents the statistical processing results of the sample data.
 
-The file RWI_MNDWI_comparison.js shows a comparison between the RWI and MNDWI indices, calculated for Sentinel-2 and Landsat-9 satellites for selected cities. This file also includes the method for calculating the RWI using Google Earth Engine.
+The WaterIndexComparison.js enables the viewing of the comparison between the spectral indices RWI, MNDWI, and NDWI in selected urban and peri-urban areas. The result can also be viewed at: <a href="https://ee-efjustiniano.projects.earthengine.app/view/rwi"> spectral water index comparison</a>. 
 
 It is strongly recommended to calculate the adjustment factor. However, if it is not possible to calculate the adjustment factor, values between 4 and 6 can be considered as divisors.
 
