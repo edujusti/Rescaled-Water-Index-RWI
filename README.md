@@ -1,8 +1,8 @@
 Welcome.
 
-This page contains the Python and JavaScript (Google Earth Engine) scripts used for data production, statistical analyses, and result visualization of the RWI spectral index.
+This page contains the Python and JavaScript (Google Earth Engine) scripts used for data production, statistical and spectral analyses, and result visualization of the RWI spectral index.
 
-Spectral information for the sample points can be generated using the script ExportRandomPoints.js.The result of the processing in the file samplePointsCities_20240811_harmonized.csv.
+Spectral information for the sample points can be generated using the script ExportRandomPoints.js. The result of the processing in the file samplePointsCities_20240811_harmonized.csv.
 
 The file ImageStatsResult.js presents the statistical processing results of the sample data.
 
