@@ -12,4 +12,4 @@ It is strongly recommended to calculate the adjustment factor. However, if it is
 
 The datasets are available at <a href="https://ieee-dataport.org/documents/rwi" target = "_blank">RWI dataset</a>.
 
-Funding Agency: -Conselho Nacional de Desenvolvimento Científico e Tecnológico (Grant Number: 141065/2021-4) - Brazil (CAPES)
+Funding Agency: -Conselho Nacional de Desenvolvimento Científico e Tecnológico (Grant Number: 141065/2021-4) - Brazil (CNPq)
